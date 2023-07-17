@@ -396,178 +396,178 @@ final Map<String, String> ar = {
   "لقد تم إنشاء ملفك الشخصي. نحتاج الآن فقط من والدك أو وصيك القانوني اكمال عملية انشاء الحساب",
   "create_teen_invite_parent_screen.lovingCashee":
   "مستمتع بكاشي؟ شاركه مع اصدقائك وساعدهم في تنشئة شباب أذكياء في استخدام المال",
-  "create_teen_invite_parent_screen.turnOnNotificationForApp":
-  "قم بتشغيل الاشعارات لنتمكن من ابلاغك متى تم انشاء حسابك. بعدها سوف تتمكن من إضافة اللمسات الأخيرة",
-  "create_teen_invite_parent_screen.turnOnNotification": "تشغيل الاشعارات",
-  "create_teen_invite_parent_screen.parentWantToLearn": "هل يريد الوالدين التعرف على كاشي؟",
-  "create_teen_invite_parent_screen.hereAreFewUseful":
-  "لديك بعض الروابط المفيدة التي تستطيع مشاركتها",
-  "create_teen_invite_parent_screen.linkCopied": "تم نسح @title ",
-  "create_teen_choose_card_screen.chooseYourCard": "اختر بطاقتك",
-  "create_teen_choose_card_screen.chooseWisely": "اختر بحذر - لايمكنك تغييرها لاحقاً",
-  "create_teen_choose_card_screen.letCreateYourCashee": "لننشئ ملفك الشخصي الخاص بكاشي",
-  "update_parent_nickname_screen.updateFamilyTitle": "تحديث مسمى العائلة",
-  "update_parent_profile_picture_screen.letYourChildBuild":
-  "سيساعد ذلك في تخصيص تجربة طفلك في التطبيق",
-  "parent_otpverify_screen.weSentItTo": " لقد أرسلناه الى @phone",
-  "spend_wallet_section.cardNumberAPIDisable": "رقم كارت API موقوف",
-  "teen_setpin_alright_screen.doNotShareItWith": "!لا تقم بمشاركته مع أي أحد",
-  "teen_setpin_alright_screen.pinChanged": "(PIN) تم تغيير رمز",
-  "teen_setpin_confirm_screen.enterNewPin": "ادخل رمز (PIN) الجديد مرة أخرى",
-  "teen_setpin_confirm_screen.toMakeSure": "للتأكد من أن كل شئ صحيح",
-  "teen_setpin_confirm_screen.thePinCodes":
-  "رموز المرور (PIN) غير متطابقة. الرجاء المحاولة مرة أخرى.",
-  "teen_setpin_create_screen.enterNewCardPin": "ادخل رمز مرور (PIN) الجديد",
-  "teen_setpin_create_screen.thePinMayBeReq": "الرجاء عدم مشاركة رمز المرور (PIN) مع أي أحد",
-  "teen_replace_card_alright_screen.newCardOrdered": "تم طلب بطاقة جديدة",
-  "teen_replace_card_alright_screen.aramexWillContact": "ستتصل بك شركة أرامكس لاجراء عملية التسليم",
-  "teen_replace_card_screen.cardReplace": "البطاقة البديلة",
-  "teen_replace_card_screen.ifYouLostTheCurrent": "في حالة فقد أو سرقة البطاقة",
-  "teen_replace_card_screen.yourCardWillBloc": "سيتم حظر بطاقتك!!سيتم حظر بطاقتك",
-  "teen_replace_card_screen.youeAccountWill":
-  "سوف يكون حسابك في طور الاستعراض  فقط بشكل مؤقت. لن تستطيع استلام وانفاق المال حتى تفعل بطاقتك الجديدة",
-  "teen_replace_card_screen.cardWillArrive": "ستصل البطاقة الجديدة في خلال 7 أيام",
-  "teen_replace_card_screen.aramexWill":
-  "قد تتواصل معك شركة التوصيل الخاصة بنا اراميكس للحصول على عنوان ووقت  التوصيل",
-  "teen_replace_card_screen.costsSAR": "التكلفة: 80 ريال سعودي",
-  "teen_replace_card_screen.thisAmountWill": "سيتم خصم المبلغ من حسابك",
-  "teen_replace_card_screen.replaceCard": "استبدل البطاقة",
-  "teen_replace_card_screen.replaceTheCard": "هل تريد استبدال البطاقة؟",
-  "teen_replace_card_screen.youCannotUndo":
-  "لا يمكنك إعادة هذه الخطوة. سوف يتم خصم مبلغ ٦٠ ريال سعودي من  رصيد anb  لتسديد رسوم البطاقة البديلة",
-  "teen_replace_card_screen.confirmPay": "التأكيد ودفغ مبلغ 60 ريال",
-  "teen_replace_card_screen.orderANewCard": "طلب بطاقة جديدة",
-  "teen_replace_card_screen.iWouldLike":
-  "مرحباً،  أود القيام بطلب إعادة اصدار بطاقة كاشي. أتفهم بأنه سوف يتم خصم مبلغ ٦٠ ريال سعودي + ٢٠% ضريبة قيمة مضافة كرسوم إعادة اصدار. أنا أؤكد بأن لدي المبلغ الكافي لاتمام هذه العملية.   شكراً",
-  "request_money_screen.whatFor": "لماذا؟",
-  "request_money_success_screen.requestAmount": "المبلغ المطلوب يجب أن يكون أعلى من 0",
-  "goal_top_up_screen.spendingBal": "رصيد الانفاق: @currency",
-  "goal_top_up_screen.yourANBBalance": "رصيد ANB الخاص بك: @currency",
-  "goal_history_screen.yourEnded": "ستظهر أهدافك المنجزة هنا",
-  "goal_history_screen.allTimeSaved": "كل ما تم ادخاره حتي الان: @currency",
-  "create_goal_amount_screen.howMuchDo": "كم تريد أن تدخر؟",
-  "create_goal_amount_screen.createWithout": "انشئ دون مبلغ للهدف",
-  "create_goal_deadline_screen.isThereDeadline": "هل هناك آخر موعد؟",
-  "create_goal_deadline_screen.createWithout": "انشئ دون إضافة آخر موعد",
-  "create_goal_deadline_screen.tapToSet": "اضغط للتحديد",
-  "create_goal_deadline_screen.specificDeadline": "آخر موعد محدد",
-  "create_goal_name_screen.whatAreYouSaving": "آخر موعد محدد؟",
-  "edit_goal_amount_screen.howMuchDo": "كم تريد أن  تدخر الآن؟",
-  "edit_goal_amount_screen.saveWithoutAmount": "أدخر دون مبلغ للهدف",
-  "edit_goal_amount_screen.sheetTitle": "إن ازالة مبلغ الهدف يزيل آخر موعد أيضاً",
-  "edit_goal_amount_screen.sheetSubTitle":
-  "إذا أردت فقط الادخار دون هدف معين، قم بالاستمرار في الادخار وانهاء الهدف في أي تاريخ ترغب فيه",
-  "edit_goal_amount_screen.sheetCtaBtn": "إزالة آخر موعد",
-  "edit_goal_deadline_screen.whenDeadline": "متى آخر موعد؟",
-  "edit_goal_deadline_screen.newDeadline": "آخر موعد جديد؟",
-  "edit_goal_deadline_screen.saveWithoutDeadline": "أدخر دون آخر موعد",
-  "goal_details_screen.unfreeze": "قم بإلغاء تجميد البطاقة لتعديل الهدف",
-  "goal_details_screen.activate": "قم بتفعيل بطاقتك الجديدة لتعديل الهدف",
-  "goal_history_section.unfreeze": "قم بإلغاء تجميد البطاقة لإضافة المال وإجراء السحب",
-  "goal_history_section.activate": "قم بتفعيل بطاقتك الجديدة لإضافة المال وإجراء السحب",
-  "goal_history_section.normalUnfreeze": "قم بإلغاء تجميد البطاقة لإضافة المال وإنهاء الأهداف",
-  "goal_history_section.normalActivate": "قم بتفعيل بطاقتك الجديدة لإضافة المال وإنهاء الأهداف",
-  "goal_topup_success_screen.addedTo": "'@goalName تم إضافته ل'",
-  "goal_topup_screen.goalForName": "@firstName ل @goalName ",
-  "goal_withdraw_success_screen.teenTitle": "تم سحبه لرصيد الإنفاق",
-  "goal_withdraw_success_screen.parentTitle": " للإنفاق @firstName تم سحبه لرصيد",
-  "goal_withdraw_screen.available": "@balance: المتوفر",
-  "goals_section.unfreeze": "قم بإلغاء تجميد البطاقة لإنشاء هدف جديد",
-  "goals_section.activate": "قم بتفعيل بطاقتك الجديدة لإنشاء هدف جديد",
-  "request_location_screen.no_permission_ui.title": "اسمح بتحديد موقعك أثناء استخدام التطبيق",
-  "request_location_screen.no_permission_ui.subtitle":
-  "إن تحديد موقعك ضروري لاستخدام كاشي وفقًا للوائح المملكة العربية السعودية. يساعدنا ذلك على إبقاء حسابك آمنًا. يرجى التأكد من اختيار \"السماح أثناء استخدام التطبيق\"",
-  "request_location_screen.no_permission_ui.button": "تشغيل خاصية تحديد الموقع",
-  "request_location_screen.limited_permission_ui.title":
-  "الرجاء اختيار 'السماح أثناء استخدام التطبيق' مع الموقع المحدد'",
-  "request_location_screen.limited_permission_ui.subtitle":
-  "إن تحديد موقعك ضروري لاستخدام كاشي وفقًا للوائح المملكة العربية السعودية حول الأمان والامتثال. الرجاء مساعدتنا في ذلك حتى تكون تجربتك أكثر أمانًا.",
-  "request_location_screen.limited_permission_ui.button": "إعدادات تحديد الموقع",
-  "location_service.enable_location_sharing.notifier1": "الرجاء تشغيل خدمات تحديد الموقع",
-  "location_service.enable_location_sharing.notifier2":
-  "الرجاء تحديد 'السماح أثناء استخدام التطبيق'",
-  "location_service.enable_location_sharing.notifier3": "الرجاء السماح بتحديد الموقع",
-  "location_service.enable_location_sharing.notifier4":
-  "اذهب الى اعدادات تطبيق كاشي واسمح باستمرار تحديد الموقع",
-  "parent_replace_card_screen.ifLostTheCurrent": "إذا فقد طفلك البطاقة الحالية أو تعرضت للسرقة",
-  "parent_replace_card_screen.cardWillbeBlock": "@firstName سيتم حظر بطاقة !",
-  "parent_replace_card_screen.thisDoesNot":
-  " لن يؤثر ذلك على حسابك. سيتغير حساب طفلك الى طور العرض. لكن لن يتمكن طفلك من اجراء أي تحويل، ولن تستطيع أن ترسل له أي مبلغ من المال",
-  "parent_replace_card_screen.notEnoughFund": "لايوجد رصيد كافي",
-  "parent_replace_card_screen.youNeedAtLeast":
-  "تحتاج على الأقل إلى replaceCardFee@ ريال سعودي في حساب anb الخاص بك لدفع رسوم البطاقة البديلة. إذا أردت حظر جميع العمليات التي تخص البطاقة الى أن يتم اضافة المال، فيمكنك تجميد البطاقة من إعدادات البطاقة",
-  "children_card_view_controller.thereIsSomeProblem":
-  "يوجد مشكلة في تغيير حالة البطاقة. الرجاء المحاولة في وقت لاحق",
-  "teenHomeController.thereIsSomeProblem":
-  "يوجد مشكلة في تغيير حالة البطاقة. الرجاء المحاولة في وقت لاحق",
-  "dummy_card_activation_screen.cardActivateSuccess": "! تم تفعيل البطاقة بنجاح",
-  "dummy_card_activation_screen.activateYourCasheeCard": "قم بتفعيل بطاقة كاشي الخاصة بك",
-  "dummy_card_activation_screen.activateCashee": " الخاصة بكاشي @firstName قم بتفعيل بطاقة",
-  "dummy_card_activation_screen.enterTheLast4Digit":
-  "أدخل آخر ٤ أرقام من بطاقة كاشي الخاصة بك لتفعيلها",
-  "dummy_card_activation_screen.enterTheLastDigit":
-  "أدخل آخر ٤ أرقام من بطاقة كاشي الخاصة ب ل firstName@ لتفعيلها",
-  "parent_children_details_screen.unfreeze":
-  "قم بإلغاء تجميد بطاقة طفلك لتتمكن من ارسال المال له وليتمكن هو من استخدام البطاقة",
-  "parent_children_details_screen.yourCardIs": "لم يتم اصدار بطاقتك بعد",
-  "parent_children_details_screen.yourCard":
-  "تم إلغاء بطاقتك. الرجاء التواصل مع الدعم الفني لاصدار بطاقة جديدة.",
-  "parent_children_details_screen.activate":
-  "قم بتفعيل بطاقة طفلك لتتمكن من ارسال المال له وليتمكن هو من استخدام البطاقة ",
-  "parent_children_spend_tab.unfreeze": "قم بإلغاء تجميد البطاقة لارسال المصروف الشخصي",
-  "parent_children_spend_tab.unfreezeTheCard": "قم بإلغاء تجميد البطاقة لتحديد المصروف الشخصي",
-  "allowance_preview_screen.editAllowance": "تعديل المصروف الشخصي",
-  "allowance_preview_screen.amountWhen": "المبلغ ومتى تقوم بالدفع",
-  "allowance_date_screen.forMonthsWith":
-  "للأشهر التي يوجد بها أيام أقل، سوف يتم ارسال المال في آخر يوم في الشهر",
-  "allowance_frequency_screen.howOftenDoYou": "؟ @firstName كم مرة تريد أن ترسل المال ل",
-  "allowance_frequency_screen.TheEasiest": "الأفضل للمبتدئين لتعلم كيفية عمل الميزانية",
-  "allowance_frequency_screen.aSubstantial": "للذين لديهم القدرة على التخطيط المبكر",
-  "allowance_frequency_screen.letPlanLike": "للذين يستطيعون المحافظة على الميزانية",
-  "parent_topup_screen.anbBalanceEquals": "رصيد anb يساوي رصيد كاشي",
-  "parent_topup_screen.inCasheeYou":
-  "في كاشي أنت تستخدم المال من حساب anb الخاص بك. إذا كنت بحاجة الى المزيد من المال، اضف بكل بساطة مالاً الى حسابك في anb  باسخدام اسمك ورقم الـ IBAN ",
-  "request_money_pending_controller.cancelMoney": "إلغاء طلب المال؟",
-  "request_money_pending_controller.theRequestWillBe": "سيتم إلغاء الطلب لك ولوالدك",
-  "request_money_pending_controller.teenCancelled": "الغى/الغت الشاب/الشابة طلب المال",
-  "parent_nid_expiry_screen.enterExpiry": "ادخل تاريخ انتهاء الهوية الوطنية",
-  "nid_expiry_molecule.nidExpired": "لقد انتهت صلاحية هويتك الوطنية",
-  "request_money_pending_controller.requestCancelled": "تم إلغاء الطلب",
-  "walkthroughTitle1": "حلول مصرفية للشباب",
-  "walkthroughSubTitle1": "طريقة جديدة تماماً للتعلم، والكسب، والتوفير، والإنفاق للأطفال والشباب",
-  "walkthroughTitle2": "وظّف أموالك واستفد منها بأفضل طريقة",
-  "walkthroughSubTitle2": "تتبع الإنفاق بدقة وتعلم كيفية الإنفاق بحكمة",
-  "walkthroughTitle3": "حقق أهداف التوفير",
-  "walkthroughSubTitle3": "أصبح توفير الأموال أمرًاسهلا عن طريق وضع الأهداف وطرق تتبع المال",
-  "walkthroughTitle4": "انطلق بثقة",
-  "walkthroughSubTitle4": "شركاؤنا هم الأفضل لتوفير تجربة آمنة ومضمونة",
-  "walkthroughTitle5": "تعلم كيفية كسب المكافآت",
-  "walkthroughSubTitle5":
-  "!دروس مبسطة عن الأموال مع إمكانية كسب المكافآت وعملات كاشي الافتراضية لجعل التعلم أمراً ممتعًا",
-  "reset_password_screen.resetPassword": "استعادة كلمة المرور؟",
-  "reset_password_screen.weWillSendCode": " @phone سوف نرسل رمزاً ل",
-  "reset_password_screen.sendResetCode": "ارسل رمز الاستعادة",
-  "reset_new_password_screen.saveNewPassword": "حفظ كلمة المرور الجديدة",
-  "parentChildrenGoalSection.unfreezeCreateNewGoal": "قم بإلغاء تجميد بطاقة طفلك لانشاء هدف جديد",
-  "parentChildrenGoalSection.activateCreateNewGoal": "قم بتفعيل بطاقة طفلك لانشاء هدف جديد",
-  "spendWalletSection.activate": "سوف تتمكن من ارسال واستقبال المال عندما تقوم بإلغاء تجميد بطاقتك",
-  "spendWalletSection.frozen": "سوف تتمكن من ارسال واستقبال المال عندما تقوم بإلغاء تجميد بطاقتك",
-  "editGoalController.nameCover": "تم تحديث الاسم والشعار الرئيسي",
-  "editGoalController.amountDeadline": "تحديد مبلغ الهدف وآخر موعد له",
-  "goalDetailsController.endGoal": "إنهاء الهدف؟",
-  "goalDetailsController.body": "سوف يذهب من الهدف الى رصيد الانفاق @savedAmount",
-  "goalTopupController.insufficientErrorMsg": "@spendBalance: رصيد إنفاقك هو",
-  "goalWithdrawController.insufficientErrorMsg": " لاجراء السحب @saveBalance لديك فقط",
-  "teenProfileController.max20characters": "٢٠ حرف بحد أقصى",
-  "gallery": "Gallery",
-  "goal_history.emptyList": "All transactions for the goal will appear here",
-  "parent_replace_card_screen.amountWillBe": "This amount will be deducted from your account",
-  "parent_replace_card_screen.cardWillArrive": "New card will arrive within 7 days",
-  "parent_replace_card_screen.costsSAR": "Costs SAR @replaceCardFee",
-  "parent_replace_card_screen.courierCompany": "Our courier company may contact you for the delivery address and time",
-  "parent_replace_card_waiting_screen.deliveredSubtitle": "You've received the new card. Next step 👉🏽 card activation!",
-  "parent_request_money.hasRequested": "@firstName has requested",
-  "parent_review_details_screen.cardsWillBeDelivered": "Cashee cards will be delivered to this address, so please make sure it's the right one. ",
-  "send_money_controller.zeroBalance": "Your anb account balance: @balance. Please top up your account to send money.",
-  "sentItToNumber": "We sent it to @number"
+ "create_teen_invite_parent_screen.turnOnNotificationForApp":
+"قم بتشغيل الاشعارات لنتمكن من ابلاغك متى تم انشاء حسابك. بعدها سوف تتمكن من إضافة اللمسات الأخيرة",
+"create_teen_invite_parent_screen.turnOnNotification": "تشغيل الاشعارات",
+"create_teen_invite_parent_screen.parentWantToLearn": "هل يريد الوالدين التعرف على كاشي؟",
+"create_teen_invite_parent_screen.hereAreFewUseful":
+"لديك بعض الروابط المفيدة التي تستطيع مشاركتها",
+"create_teen_invite_parent_screen.linkCopied": "تم نسخ @title",
+"create_teen_choose_card_screen.chooseYourCard": "اختر بطاقتك",
+"create_teen_choose_card_screen.chooseWisely": "اختر بحذر - لا يمكنك تغييرها لاحقاً",
+"create_teen_choose_card_screen.letCreateYourCashee";'?': "لننشئ ملفك الشخصي الخاص بكاشي",
+"update_parent_nickname_screen.updateFamilyTitle": "تحديث مسمى العائلة",
+"update_parent_profile_picture_screen.letYourChildBuild":
+"سيساعد ذلك في تخصيص تجربة طفلك في التطبيق",
+"parent_otpverify_screen.weSentItTo": "لقد ارسلناه الى @phone",
+"spend_wallet_section.cardNumberAPIDisable": "رقم API البطاقه موقف",
+"teen_setpin_alright_screen.doNotShareItWith": "!لا تقم بمشاركته مع أي أحد",
+"teen_setpin_alright_screen.pinChanged": "تم تغيير رمز (PIN)",
+"teen_setpin_confirm_screen.enterNewPin": "ادخل رمز (PIN) الجديد مره اخرى",
+"teen_setpin_confirm_screen.toMakeSure": "للتأكد من أن كل شئ صحيح",
+"teen_setpin_confirm_screen.thePinCodes":
+"رمز المرور (PIN) غير صحيح. الرجاء المحاولة مرة أخرى.",
+"teen_setpin_create_screen.enterNewCardPin": "ادخل رمز مرور (PIN) الجديد",
+"teen_setpin_create_screen.thePinMayBeReq": "الرجاء عدم مشاركة رمز المرور (PIN) مع أي أحد",
+"teen_replace_card_alright_screen.newCardOrdered": "تم طلب بطاقة جديدة",
+"teen_replace_card_alright_screen.aramexWillContact": "ستتصل بك شركة أرامكس لاجراء عملية التسليم",
+"teen_replace_card_screen.cardReplace": "البطاقة البديلة",
+"teen_replace_card_screen.ifYouLostTheCurrent": "في حالة فقدان أو سرقة البطاقة",
+"teen_replace_card_screen.yourCardWillBloc": "سيتم حظر بطاقتك!!",
+"teen_replace_card_screen.youeAccountWill":
+"سوف يكون حسابك في طور الاستعراض  فقط بشكل مؤقت. لن تستطيع استلام او انفاق المال حتى تفعل بطاقتك الجديدة",
+"teen_replace_card_screen.cardWillArrive": "ستصل البطاقة الجديدة في خلال 7 أيام",
+"teen_replace_card_screen.aramexWill":
+"قد تتواصل معك شركة التوصيل الخاصة بنا أرامكس للحصول على عنوان ووقت التوصيل الخاص بك",
+"teen_replace_card_screen.costsSAR": "التكلفة: 80 ريال سعودي",
+"teen_replace_card_screen.thisAmountWill": "سيتم خصم المبلغ من حسابك",
+"teen_replace_card_screen.replaceCard": "استبدل البطاقة",
+"teen_replace_card_screen.replaceTheCard": "هل تريد استبدال البطاقة؟",
+"teen_replace_card_screen.youCannotUndo":
+"لا يمكنك إعاده هذه الخطوه، سوف يتم خصم مبلغ 60 ريال سعودي من رصيد anb لتسديد رسوم البطاقة البديلة",
+"teen_replace_card_screen.confirmPay": "التأكيد ودفغ مبلغ 60 ريال",
+"teen_replace_card_screen.orderANewCard": "طلب بطاقة جديدة",
+"teen_replace_card_screen.iWouldLike":
+"مرحباً، أود القيام بطلب إعادة اصدار بطاقة كاشي. أتفهم بأنه سوف يتم خصم مبلغ 60 ريال سعودي + 20% ضريبة قيمة مضافة كرسوم إعادة اصدار. أنا أؤكد بأن لدي المبلغ الكافي لأتمام هذه العملية. شكراً",
+"request_money_screen.whatFor": "لماذا؟",
+"request_money_success_screen.requestAmount": "المبلغ المطلوب يجب أن يكون أعلى من 0",
+"goal_top_up_screen.spendingBal": "رصيد الانفاق :@currency",
+"goal_top_up_screen.yourANBBalance": "رصيد anb الخاص بك :@currency",
+"goal_history_screen.yourEnded": "ستظهر أهدافك المنجزة هنا",
+"goal_history_screen.allTimeSaved": "currency@: كل ماتم ادخاره حتى الآن",
+"create_goal_amount_screen.howMuchDo": "كم تريد أن تدخر؟",
+"create_goal_amount_screen.createWithout": "انشئ دون مبلغ محدد للهدف",
+"create_goal_deadline_screen.isThereDeadline": "هل هناك موعد آخر؟",
+"create_goal_deadline_screen.createWithout": "انشئ دون إضافة آخر موعد",
+"create_goal_deadline_screen.tapToSet": "من فضلك، اضغط للتحديد",
+"create_goal_deadline_screen.specificDeadline": "آخر موعد محدد",
+"create_goal_name_screen.whatAreYouSaving": "آخر موعد محدد؟",
+"edit_goal_amount_screen.howMuchDo": "كم تريد أن  تدخر الآن؟",
+"edit_goal_amount_screen.saveWithoutAmount": "أدخر دون مبلغ محدد للهدف",
+"edit_goal_amount_screen.sheetTitle": "إن ازالة مبلغ الهدف يزيل آخر موعد أيضاً",
+"edit_goal_amount_screen.sheetSubTitle":
+"إذا أردت فقط الادخار دون هدف معين، قم بالاستمرار في الادخار وانهاء الهدف في أي تاريخ آخر ترغب فيه",
+"edit_goal_amount_screen.sheetCtaBtn": "إزالة آخر موعد",
+"edit_goal_deadline_screen.whenDeadline": "متى آخر موعد؟",
+"edit_goal_deadline_screen.newDeadline": "آخر موعد جديد؟",
+"edit_goal_deadline_screen.saveWithoutDeadline": "أدخر دون آخر موعد",
+"goal_details_screen.unfreeze": "قم بإلغاء تجميد البطاقة لتعديل الهدف",
+"goal_details_screen.activate": "قم بتفعيل بطاقتك الجديدة لتعديل الهدف",
+"goal_history_section.unfreeze": "قم بإلغاء تجميد البطاقة لإضافة المال وإجراء السحب",
+"goal_history_section.activate": "قم بتفعيل بطاقتك الجديدة لإضافة المال وإجراء السحب",
+"goal_history_section.normalUnfreeze": "قم بإلغاء تجميد البطاقة لإضافة المال وإنهاء الأهداف",
+"goal_history_section.normalActivate": "قم بتفعيل بطاقتك الجديدة لإضافة المال وإنهاء الأهداف",
+"goal_topup_success_screen.addedTo": "تم اضافته ل @goalName'",
+"goal_topup_screen.goalForName": "@goalName ل @firstName",
+"goal_withdraw_success_screen.teenTitle": "تم سحبه لرصيد الإنفاق بنجاح",
+"goal_withdraw_success_screen.parentTitle": "تم سحبه لرصيد @firstName للانفاق",
+"goal_withdraw_screen.available": "balance@: المتوفر",
+"goals_section.unfreeze": "قم بإلغاء تجميد البطاقة لإنشاء هدف جديد",
+"goals_section.activate": "قم بتفعيل بطاقتك الجديدة لإنشاء هدف جديد",
+"request_location_screen.no_permission_ui.title": "اسمح بتحديد موقعك أثناء استخدام التطبيق",
+"request_location_screen.no_permission_ui.subtitle":
+"إن تحديد موقعك ضروري لاستخدام كاشي وفقًا للوائح المملكة العربية السعودية. يساعدنا ذلك على إبقاء حسابك آمنًا. يرجى التأكد من اختيار \"السماح أثناء استخدام التطبيق\"",
+"request_location_screen.no_permission_ui.button": "تشغيل خاصية تحديد الموقع",
+"request_location_screen.limited_permission_ui.title":
+"الرجاء اختيار 'السماح أثناء استخدام التطبيق' مع الموقع المحدد'",
+"request_location_screen.limited_permission_ui.subtitle":
+"إن تحديد موقعك ضروري لاستخدام كاشي وفقًا للوائح المملكة العربية السعودية حول الأمان والامتثال. الرجاء مساعدتنا في ذلك حتى تكون تجربتك أكثر أمانًا.",
+"request_location_screen.limited_permission_ui.button": "إعدادات تحديد الموقع",
+"location_service.enable_location_sharing.notifier1": "الرجاء تشغيل خدمات تحديد الموقع",
+"location_service.enable_location_sharing.notifier2":
+"الرجاء تحديد 'السماح أثناء استخدام التطبيق'",
+"location_service.enable_location_sharing.notifier3": "الرجاء السماح بتحديد الموقع",
+"location_service.enable_location_sharing.notifier4":
+"اذهب الى اعدادات تطبيق كاشي واسمح باستمرار تحديد الموقع",
+"parent_replace_card_screen.ifLostTheCurrent": "إذا فقد طفلك البطاقة الحالية أو تعرضت للسرقة",
+"parent_replace_card_screen.cardWillbeBlock": "سيتم حظر بطاقه @firstName",
+"parent_replace_card_screen.thisDoesNot":
+"لن يؤثر ذلك على حسابك. سيتغير حساب طفلك الى عرض المشاهدة فقط. لن يتمكن طفلك من اجراء أي تحويل، ولن تستطيع أن ترسل له أي مبلغ من المال",
+"parent_replace_card_screen.notEnoughFund": "لا يوجد رصيد كافي",
+"parent_replace_card_screen.youNeedAtLeast":
+"تحتاج على الاقل الي @replaceCardFee ريال سعودي فى حساب anb الخاص بك لدفع رسوم البطاقة البديلة. إذا أردت حظر جميع العمليات التي تخص البطاقة الى أن يتم اضافة المال، فيمكنك تجميد البطاقة من إعدادات البطاقة",
+"children_card_view_controller.thereIsSomeProblem":
+"يوجد مشكلة في تغيير حالة البطاقة. الرجاء المحاولة في وقت لاحق",
+"teenHomeController.thereIsSomeProblem":
+"يوجد مشكلة في تغيير حالة البطاقة. الرجاء المحاولة في وقت لاحق",
+"dummy_card_activation_screen.cardActivateSuccess": "! تم تفعيل البطاقة بنجاح",
+"dummy_card_activation_screen.activateYourCasheeCard": "قم بتفعيل بطاقة كاشي الخاصة بك",
+"dummy_card_activation_screen.activateCashee": "قم بتفعيل بطاقة @firstName الخاصة بكاشي",
+"dummy_card_activation_screen.enterTheLast4Digit":
+"أدخل آخر 4 أرقام من بطاقة كاشي الخاصة بك لتفعيلها",
+"dummy_card_activation_screen.enterTheLastDigit":
+"ادخل آخر 4 ارقام من بطاقة كاشي ب @firstName لتفعيلها",
+"parent_children_details_screen.unfreeze":
+"قم بإلغاء تجميد بطاقة طفلك لتتمكن من ارسال المال له وليتمكن هو من استخدام البطاقة مره اخرى",
+"parent_children_details_screen.yourCardIs": "لم يتم اصدار بطاقتك بعد",
+"parent_children_details_screen.yourCard":
+"تم إلغاء بطاقتك. الرجاء التواصل مع الدعم الفني لاصدار بطاقة جديدة.",
+"parent_children_details_screen.activate":
+"قم بتفعيل بطاقة طفلك لتتمكن من ارسال المال له وليتمكن هو من استخدام البطاقة ",
+"parent_children_spend_tab.unfreeze": "قم بإلغاء تجميد البطاقة لارسال المصروف الشخصي",
+"parent_children_spend_tab.unfreezeTheCard": "قم بإلغاء تجميد البطاقة لتحديد المصروف الشخصي",
+"allowance_preview_screen.editAllowance": "تعديل المصروف الشخصي",
+"allowance_preview_screen.amountWhen": "المبلغ ومتى تقوم بالدفع",
+"allowance_date_screen.forMonthsWith":
+"للأشهر التي يوجد بها أيام أقل، سوف يتم ارسال المال في آخر يوم في الشهر",
+"allowance_frequency_screen.howOftenDoYou": "كم مرة تريد أن ترسل المال الى @firstName ؟",
+"allowance_frequency_screen.TheEasiest": "الأفضل للمبتدئين لتعلم كيفية عمل الميزانية",
+"allowance_frequency_screen.aSubstantial": "للذين لديهم القدرة على التخطيط المبكر",
+"allowance_frequency_screen.letPlanLike": "للذين يستطيعون المحافظة على الميزانية",
+"parent_topup_screen.anbBalanceEquals": "رصيد anb يساوي رصيد كاشي",
+"parent_topup_screen.inCasheeYou":
+"في كاشي أنت تستخدم المال من حساب anb الخاص بك. إذا كنت بحاجة الى المزيد من المال، اضف بكل بساطة مالاً الى حسابك في anb  باسخدام اسمك ورقم الـ IBAN ",
+"request_money_pending_controller.cancelMoney": "إلغاء طلب المال؟",
+"request_money_pending_controller.theRequestWillBe": "سيتم إلغاء الطلب لك ولوالدك",
+"request_money_pending_controller.teenCancelled": "الغى/الغت الشاب/الشابة طلب المال",
+"parent_nid_expiry_screen.enterExpiry": "ادخل تاريخ انتهاء الهوية الوطنية",
+"nid_expiry_molecule.nidExpired": "لقد انتهت صلاحية هويتك الوطنية",
+"request_money_pending_controller.requestCancelled": "تم إلغاء الطلب",
+"walkthroughTitle1": "حلول مصرفية للشباب",
+"walkthroughSubTitle1": "طريقة جديدة تماماً للتعلم، والكسب، والتوفير، والإنفاق للأطفال والشباب",
+"walkthroughTitle2": "وظّف أموالك واستفد منها بأفضل طريقة",
+"walkthroughSubTitle2": "تتبع الإنفاق بدقة وتعلم كيفية الإنفاق بحكمة",
+"walkthroughTitle3": "حقق أهداف التوفير",
+"walkthroughSubTitle3": "أصبح توفير الأموال أمرًا سهلاً عن طريق وضع الأهداف وطرق تتبع المال",
+"walkthroughTitle4": "انطلق بثقة",
+"walkthroughSubTitle4": "شركاؤنا هم الأفضل لتوفير تجربة آمنة ومضمونة",
+"walkthroughTitle5": "تعلم كيفية كسب المكافآت",
+"walkthroughSubTitle5":
+"!دروس مبسطة عن الأموال مع إمكانية كسب المكافآت وعملات كاشي الافتراضية لجعل التعلم أمراً ممتعًا",
+"reset_password_screen.resetPassword": "استعادة كلمة المرور؟",
+"reset_password_screen.weWillSendCode": "سوف نرسل رمزًا لـ @phone",
+"reset_password_screen.sendResetCode": "ارسل رمز الاستعادة",
+"reset_new_password_screen.saveNewPassword": "حفظ كلمة المرور الجديدة",
+"parentChildrenGoalSection.unfreezeCreateNewGoal": "قم بإلغاء تجميد بطاقة طفلك لانشاء هدف جديد",
+"parentChildrenGoalSection.activateCreateNewGoal": "قم بتفعيل بطاقة طفلك لانشاء هدف جديد",
+"spendWalletSection.activate": "سوف تتمكن من ارسال واستقبال المال عندما تقوم بإلغاء تجميد بطاقتك",
+"spendWalletSection.frozen": "سوف تتمكن من ارسال واستقبال المال عندما تقوم بإلغاء تجميد بطاقتك",
+"editGoalController.nameCover": "تم تحديث الاسم والشعار الرئيسي",
+"editGoalController.amountDeadline": "تحديد مبلغ الهدف وآخر موعد له",
+"goalDetailsController.endGoal": "إنهاء الهدف؟",
+"goalDetailsController.body": "سوف يذهب من الهدف الى رصيد الانفاق @savedAmount",
+"goalTopupController.insufficientErrorMsg": "رصيد إنفاقك هو: @spendBalance",
+"goalWithdrawController.insufficientErrorMsg": "لديك فقط @saveBalance لإجراء السحب",
+"teenProfileController.max20characters": "٢٠ حرف بحد أقصى",
+"gallery": "معرض الصور",
+"goal_history.emptyList": "كل التحويلات المالية لتحقيق الهدف ستظهر هنا.",
+"parent_replace_card_screen.amountWillBe": "سيتم خصم هذا المبلغ من حسابك",
+"parent_replace_card_screen.cardWillArrive": "ستصل بطاقتك الجديدة خلال 7 أيام",
+"parent_replace_card_screen.costsSAR": "تكلفة الخدمة: @replaceCardFee SAR",
+"parent_replace_card_screen.courierCompany": "شركة الشحن ستتواصل معك للحصول علي العنوان و رقم هاتفك للتواصل",
+"parent_replace_card_waiting_screen.deliveredSubtitle": "لقد تلقيت بطاقتك الجديدة. الخطوة القادمة هي تفعيلها!",
+"parent_request_money.hasRequested": "لقد طلب @firstName",
+"parent_review_details_screen.cardsWillBeDelivered": "سيتم توصيل بطاقات كاشي لهذا العنوان لذلك الرجاء التأكد من أنه العنوان الصحيح.",
+"send_money_controller.zeroBalance": "رصيد حسابك في anb هو: @balance. أضف مالًا لحسابك لإرسال المال.",
+"sentItToNumber": "لقد أرسلناه إلي @number."
 };
